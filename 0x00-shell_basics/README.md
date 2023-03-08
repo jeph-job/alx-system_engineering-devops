@@ -7,3 +7,5 @@
 6-firstdirectory - Creates new directory named "my_first_directory" inside the tmp directory
 7-movethatfile - Move betty from tmp dir to tmp/my_first_directory
 8-firstdelete - Deletes betty from tmp/my_fisrt_directory dir
+10-back - Go back to the previous dir
+11-lists - lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
